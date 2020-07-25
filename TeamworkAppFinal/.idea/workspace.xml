@@ -1,0 +1,532 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidConfiguredLogFilters">
+    <filters>
+      <filter>
+        <option name="logLevel" value="verbose" />
+        <option name="logMessagePattern" value="" />
+        <option name="logTagPattern" value="sai" />
+        <option name="name" value="sai" />
+        <option name="packageNamePattern" value="" />
+        <option name="pid" value="" />
+      </filter>
+    </filters>
+  </component>
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_LOG_LEVEL" value="info" />
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="sai" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f576883e-81d8-410a-ad4d-10dd35365acb" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../CriminalIntent/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CriminalIntent/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CriminalIntent/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../README.md" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="Pixel_XL_API_22" />
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$/app">
+          <activation />
+        </task>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="Teamwork App" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="Teamwork App" type="f1a62948:ProjectNode" />
+                <item name="Teamwork App" type="2d1252cf:ModuleNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="Teamwork App" type="f1a62948:ProjectNode" />
+                <item name="Teamwork App" type="2d1252cf:ModuleNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/build/generated/ap_generated_sources/debug/out/com/android/teamworkapp/userdata/UserAccountDao_Impl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="735">
+              <caret line="56" selection-start-line="56" selection-end-line="56" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/build/generated/ap_generated_sources/debug/out/com/android/teamworkapp/userdata/UserAccountDatabase_Impl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="24" selection-start-line="24" selection-end-line="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/build/generated/source/buildConfig/debug/com/android/teamworkapp/BuildConfig.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="45">
+              <caret line="5" column="19" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="layoutResourceFile_vertical" />
+        <option value="Class" />
+        <option value="Interface" />
+        <option value="resourceFile" />
+        <option value="layoutResourceFile" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>fetchRecentPhotos(</find>
+      <find>searchPhotos</find>
+      <find>Fli</find>
+      <find>mQuery</find>
+      <find>downloadGalleryItems</find>
+      <find>getUrlString</find>
+      <find>getUrlBytes</find>
+      <find>ENDPOINT</find>
+      <find>url</find>
+      <find>buildUrl</find>
+      <find>FetchI</find>
+      <find>Re</find>
+      <find>mMaxPage</find>
+      <find>invoke(</find>
+      <find>getUrlBy</find>
+      <find>getU</find>
+      <find>mGridManager</find>
+      <find>getTh</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$/app/src/main/res</dir>
+      <dir>$PROJECT_DIR$/app/src/main/java/com/android/teamworkapp</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/app/src/main/res/values/colors.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/drawable/rounded_corner_btn.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/values/styles.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/android/teamworkapp/ViewPagerAdapter.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/android/teamworkapp/userdata/UserAccountDatabase.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/android/teamworkapp/UserViewModel.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/android/teamworkapp/userdata/UserAccountDao.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/android/teamworkapp/WelcomeActivity.java" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_welcome.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/android/teamworkapp/userdata/UserRepository.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/android/teamworkapp/userdata/UserAccount.java" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/images/ac_image_grid.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/galleryimages/ac_image_grid.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/images/row_multiphoto_item.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/row_multiphoto_item.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/android/teamworkapp/BaseActivity.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/android/teamworkapp/UILApplication.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/android/teamworkapp/images/MultiPhotoSelectActivity.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/android/teamworkapp/images/BaseActivity.java" />
+        <option value="$PROJECT_DIR$/app/src/main/res/transition/fade_in.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/ac_image_grid.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/android/teamworkapp/PictureUtils.java" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/images.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/android/teamworkapp/PhotoFetching/FlickrFetchr.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/android/teamworkapp/PhotoFetching/ThumbnailDownloader.java" />
+        <option value="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/android/teamworkapp/PhotoFetching/GalleryItem.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/android/teamworkapp/PhotoFetching/GalleryPage.java" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/gallery_item.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/android/teamworkapp/FetchPhotos/Photo.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/android/teamworkapp/FetchPhotos/GetDataService.java" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/view_images.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/item_markup.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/android/teamworkapp/FetchPhotos/FlickrFetchr.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/android/teamworkapp/FetchPhotos/ThumbnailDownloader.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/android/teamworkapp/Tab3Fragment.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/android/teamworkapp/FetchPhotos/RetrofitClientInstance.java" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/menu/hamburger_menu.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/coordinator_layout.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_signup.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_signin.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/android/teamworkapp/Tab2Fragment.java" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/contact_us.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/values/strings.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/android/teamworkapp/SigninActivity.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/android/teamworkapp/SignupActivity.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/android/teamworkapp/Tab1Fragment.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/android/teamworkapp/MainActivity.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="468" />
+    <option name="y" value="88" />
+    <option name="width" value="603" />
+    <option name="height" value="555" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="TeamworkApp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TeamworkApp" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="TeamworkApp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TeamworkApp" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name=".gradle" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TeamworkApp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TeamworkApp" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name=".gradle" type="462c0819:PsiDirectoryNode" />
+              <item name="5.4.1" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="AndroidView">
+        <subPane>
+          <expand>
+            <path>
+              <item name="TeamworkApp" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="e9137016:NonAndroidModuleNode" />
+            </path>
+            <path>
+              <item name="TeamworkApp" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="e9137016:NonAndroidModuleNode" />
+              <item name="java" type="f7eae187:NonAndroidSourceTypeNode" />
+            </path>
+            <path>
+              <item name="TeamworkApp" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="e9137016:NonAndroidModuleNode" />
+              <item name="java" type="f7eae187:NonAndroidSourceTypeNode" />
+              <item name="teamworkapp" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TeamworkApp" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="e9137016:NonAndroidModuleNode" />
+              <item name="java" type="f7eae187:NonAndroidSourceTypeNode" />
+              <item name="userdata" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TeamworkApp" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="e9137016:NonAndroidModuleNode" />
+              <item name="tests" type="f7eae187:NonAndroidSourceTypeNode" />
+            </path>
+            <path>
+              <item name="TeamworkApp" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="e9137016:NonAndroidModuleNode" />
+              <item name="tests" type="f7eae187:NonAndroidSourceTypeNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TeamworkApp" type="1abcf292:AndroidViewProjectNode" />
+              <item name="Gradle Scripts" type="ae0cef3a:AndroidBuildScriptsGroupNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="DeviceAndSnapshotComboBoxAction.selectedDevice" value="Pixel_XL_API_22" />
+    <property name="DeviceAndSnapshotComboBoxAction.selectionTime" value="2020-07-24T20:04:35.833Z" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="android.sdk.path" value="$USER_HOME$/Android/Sdk" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/app/src/main/res/drawable" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Dependencies" />
+    <property name="project.structure.proportion" value="0.17" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.project.gradle" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/app/src/main/res/layout/galleryimages" />
+      <recent name="$PROJECT_DIR$/app/src/main/res/layout" />
+      <recent name="$PROJECT_DIR$/app/src/main/java/com/android/teamworkapp" />
+    </key>
+    <key name="android.template.packageName">
+      <recent name="com.android.teamworkapp" />
+    </key>
+    <key name="android.template.parentActivityClass">
+      <recent name="" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.android.teamworkapp.FetchPhotos" />
+      <recent name="com.android.teamworkapp.PhotoFetching" />
+      <recent name="com.android.teamworkapp" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/app/src/main/res/drawable" />
+      <recent name="$PROJECT_DIR$/app/libs" />
+      <recent name="$PROJECT_DIR$/app/src/main/res/layout" />
+      <recent name="$PROJECT_DIR$/app/src/main/java/com/android/teamworkapp/PhotoFetching" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
+      <module name="app" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f576883e-81d8-410a-ad4d-10dd35365acb" name="Default Changelist" comment="" />
+      <created>1595533442884</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1595533442884</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="67" y="25" width="1299" height="743" extended-state="6" />
+    <layout>
+      <window_info id="Captures" order="0" side_tool="true" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.14285715" />
+      <window_info id="Structure" order="2" side_tool="true" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info id="Build Variants" order="4" side_tool="true" />
+      <window_info id="Image Layers" order="5" />
+      <window_info id="Designer" order="6" />
+      <window_info id="Resources Explorer" order="7" />
+      <window_info id="Capture Tool" order="8" />
+      <window_info anchor="bottom" id="Run" order="0" weight="0.32504147" />
+      <window_info anchor="bottom" id="Logcat" order="1" weight="0.32736155" />
+      <window_info anchor="bottom" id="TODO" order="2" weight="0.3283582" />
+      <window_info anchor="bottom" id="Debug" order="3" />
+      <window_info anchor="bottom" id="Terminal" order="4" />
+      <window_info anchor="bottom" id="Event Log" order="5" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="6" />
+      <window_info anchor="bottom" id="Build" order="7" weight="0.3159609" />
+      <window_info anchor="bottom" id="Android Profiler" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Find" order="9" />
+      <window_info anchor="right" id="Hierarchy" order="0" weight="0.32960895" />
+      <window_info anchor="right" id="Device File Explorer" order="1" side_tool="true" />
+      <window_info anchor="right" id="Capture Analysis" order="2" />
+      <window_info active="true" anchor="right" id="Gradle" order="3" visible="true" weight="0.32960895" />
+      <window_info anchor="right" id="Theme Preview" order="4" />
+      <window_info anchor="right" id="Preview" order="5" weight="0.08060654" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/galleryimages/ac_image_grid.xml" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/images/row_multiphoto_item.xml" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/android/teamworkapp/images/MultiPhotoSelectActivity.java" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/android/teamworkapp/images/BaseActivity.java" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/android/teamworkapp/images/UILApplication.java" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/transition/fade_in.xml" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/row_multiphoto_item.xml" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/ac_image_grid.xml" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/android/teamworkapp/PhotoFetching/ThumbnailDownloader.java" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/android/teamworkapp/PhotoFetching/GalleryPage.java" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/android/teamworkapp/PhotoFetching/GalleryItem.java" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/android/teamworkapp/PhotoFetching/QueryPreferences.java" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/android/teamworkapp/PhotoFetching/FlickrFetchr.java" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/android/teamworkapp/PictureUtils.java" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/gallery_item.xml" />
+    <entry file="jar://$PROJECT_DIR$/app/libs/httprpc-7.2.3.jar!/org/httprpc/WebServiceProxy.class" />
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.3.0/76f3c69879d3e01c082f49d8661c5590838148e1/retrofit-2.3.0-sources.jar!/retrofit2/Retrofit.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="127" column="15" selection-start-line="127" selection-start-column="15" selection-end-line="127" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/android/teamworkapp/FetchPhotos/FlickrFetchr.java" />
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.recyclerview/recyclerview/1.0.0/2151d26c3b241f0a887f2dadb9ab091649fcf020/recyclerview-1.0.0-sources.jar!/androidx/recyclerview/widget/RecyclerView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="99225">
+          <caret line="6780" selection-start-line="6780" selection-end-line="6780" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/view_images.xml" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/item_markup.xml" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/android/teamworkapp/FetchPhotos/ThumbnailDownloader.java" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/android/teamworkapp/FetchPhotos/Photo.java" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/android/teamworkapp/FetchPhotos/GetDataService.java" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/android/teamworkapp/FetchPhotos/RetrofitClientInstance.java" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/android/teamworkapp/userdata/UserAccount.java" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/android/teamworkapp/userdata/UserAccountDao.java" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/android/teamworkapp/userdata/UserAccountDatabase.java" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/android/teamworkapp/userdata/UserRepository.java" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/menu/hamburger_menu.xml" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable/hamburger.png" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/coordinator_layout.xml" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_signup.xml" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/contact_us.xml" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/values/strings.xml" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_signin.xml" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/images.xml" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/android/teamworkapp/SignupActivity.java" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/android/teamworkapp/Tab1Fragment.java" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/android/teamworkapp/Tab2Fragment.java" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/android/teamworkapp/Tab3Fragment.java" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/android/teamworkapp/UserViewModel.java" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/android/teamworkapp/ViewPagerAdapter.java" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/android/teamworkapp/WelcomeActivity.java" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/android/teamworkapp/MainActivity.java" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/android/teamworkapp/SigninActivity.java" />
+    <entry file="file://$PROJECT_DIR$/app/build/generated/ap_generated_sources/debug/out/com/android/teamworkapp/userdata/UserAccountDao_Impl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="735">
+          <caret line="56" selection-start-line="56" selection-end-line="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/build/generated/ap_generated_sources/debug/out/com/android/teamworkapp/userdata/UserAccountDatabase_Impl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="24" selection-start-line="24" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/build/generated/source/buildConfig/debug/com/android/teamworkapp/BuildConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="5" column="19" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
