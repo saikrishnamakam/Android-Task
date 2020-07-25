@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Teamwork App</string>
+    <string name="sign_in">Sign In</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="email">Email</string>
+    <string name="name">Name</string>
+    <string name="password">Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="predefined_phone_no">+91 9876543210</string>
+    <string name="predefined_emailid">abc@xyz.com</string>
+    <string name="select_image">Select Image</string>
+</resources>

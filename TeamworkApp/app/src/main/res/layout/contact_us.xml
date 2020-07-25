@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:id="@+id/contactus_phone_no"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/predefined_phone_no"
+        android:gravity="center_horizontal"
+        android:layout_marginTop="130dp"
+        />
+
+    <TextView
+        android:id="@+id/contactus_email"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_horizontal"
+        android:text="Phone Number : @string/predefined_emailid"
+        android:layout_marginTop="50dp"
+        />
+
+</LinearLayout>
